@@ -1,0 +1,8 @@
+title: Open Challenges in Robot Control
+description: ECC26 Workshop on the foundations, limits, and emerging opportunities in robotic control systems.
+theme: jekyll-theme-cayman
+
+# GitHub Pages specific settings (Optional but recommended for Cayman)
+repository: IEEE-RAS-Robot-Control/oceo_rc_ecc26.github.io # Update this to your actual repository
+github:
+  is_project_page: true

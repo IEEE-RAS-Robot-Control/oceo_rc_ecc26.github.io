@@ -80,7 +80,7 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Cosimo Della Santina</h3>
       <h4>TU Delft, NL - Primary Contact</h4>
-      <p>Associate Professor in Robotics and Control[cite: 6]. Research on nonlinear control, soft and underactuated robots, and physical interaction[cite: 6, 7]. Email: c.dellasantina@tudelft.nl [cite: 8]</p>
+      <p>Associate Professor in Robotics and Control. Research on nonlinear control, soft and underactuated robots, and physical interaction. Email: c.dellasantina@tudelft.nl</p>
     </div>
   </div>
 
@@ -89,7 +89,7 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Kaoru Yamamoto</h3>
       <h4>Kyushu University, JP</h4>
-      <p>Professor of Control and Robotics[cite: 10]. Research on control of interconnected dynamical systems, distributed control, multi-agent systems, mechanical networks, and passivity-based control[cite: 10, 11].</p>
+      <p>Professor of Control and Robotics. Research on control of interconnected dynamical systems, distributed control, multi-agent systems, mechanical networks, and passivity-based control.</p>
     </div>
   </div>
 
@@ -98,7 +98,7 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Manuel Keppler</h3>
       <h4>German Aerospace Center - DLR, DE</h4>
-      <p>Senior researcher in articulated soft and humanoid robot control, with strong links between theory and large-scale experimental platforms[cite: 13, 14].</p>
+      <p>Senior researcher in articulated soft and humanoid robot control, with strong links between theory and large-scale experimental platforms.</p>
     </div>
   </div>
 
@@ -107,7 +107,7 @@ The workshop targets researchers in control and robotics whose work engages with
     <div class="profile-info">
       <h3>Sylvia Herbert</h3>
       <h4>University of California San Diego, US</h4>
-      <p>Assistant Professor working on scalable safety assurances and control policies based on available models and data about the system and environment[cite: 16].</p>
+      <p>Assistant Professor working on scalable safety assurances and control policies based on available models and data about the system and environment.</p>
     </div>
   </div>
 </div>

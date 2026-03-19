@@ -18,8 +18,6 @@ The objectives are threefold:
 ## Target Audience
 The workshop targets researchers in control and robotics whose work engages with the modeling, analysis, and control of complex robotic systems, particularly in settings involving physical interaction, uncertainty, hybrid behavior, and learning-enabled components. It is especially relevant for those interested in the foundations of robotics control, the limits of existing frameworks, and the formulation of new problems arising from emerging robotic platforms and technologies.
 
-## Organizers
-
 <style>
   .profile-grid {
     display: flex;
@@ -74,40 +72,73 @@ The workshop targets researchers in control and robotics whose work engages with
   }
 </style>
 
+## Invited Speakers
+
+### Early to Mid Career
 <div class="profile-grid">
   <div class="profile-card">
-    <img src="assets/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
+    <img src="assets/speakers/early_mid/laura.jpg" alt="Laura Ferranti" class="profile-image">
     <div class="profile-info">
-      <h3>Cosimo Della Santina</h3>
-      <h4>TU Delft, NL - Primary Contact</h4>
-      <p>Associate Professor in Robotics and Control. Research on nonlinear control, soft and underactuated robots, and physical interaction. Email: c.dellasantina@tudelft.nl</p>
+      <h3>Laura Ferranti</h3>
+      <h4>Delft University of Technology, Netherlands</h4>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/kaoru.jpg" alt="Kaoru Yamamoto" class="profile-image">
+    <img src="assets/speakers/early_mid/chiara.png" alt="Chiara Gabellieri" class="profile-image">
     <div class="profile-info">
-      <h3>Kaoru Yamamoto</h3>
-      <h4>Kyushu University, JP</h4>
-      <p>Professor of Control and Robotics. Research on control of interconnected dynamical systems, distributed control, multi-agent systems, mechanical networks, and passivity-based control.</p>
+      <h3>Chiara Gabellieri</h3>
+      <h4>University of Twente, Netherlands</h4>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/manuel.jpg" alt="Manuel Keppler" class="profile-image">
+    <img src="assets/speakers/early_mid/manuel.jpg" alt="Manuel Keppler" class="profile-image">
     <div class="profile-info">
       <h3>Manuel Keppler</h3>
-      <h4>German Aerospace Center - DLR, DE</h4>
-      <p>Senior researcher in articulated soft and humanoid robot control, with strong links between theory and large-scale experimental platforms.</p>
+      <h4>German Aerospace Center (DLR), Germany</h4>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/sylvia.jpg" alt="Sylvia Herbert" class="profile-image">
+    <img src="assets/speakers/early_mid/kyoungchul.png" alt="Kyoungchul Kong" class="profile-image">
     <div class="profile-info">
-      <h3>Sylvia Herbert</h3>
-      <h4>University of California San Diego, US</h4>
-      <p>Assistant Professor working on scalable safety assurances and control policies based on available models and data about the system and environment.</p>
+      <h3>Kyoungchul Kong</h3>
+      <h4>KAIST, South Korea</h4>
+    </div>
+  </div>
+
+  ### Senior
+
+  <div class="profile-card">
+    <img src="assets/alessandro-a.jpg" alt="Alessandro Astolfi" class="profile-image">
+    <div class="profile-info">
+      <h3>Alessandro Astolfi</h3>
+      <h4>Imperial College London, UK</h4>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/maria.jpg" alt="Maria Pia Fanti" class="profile-image">
+    <div class="profile-info">
+      <h3>Maria Pia Fanti</h3>
+      <h4>Politecnico di Bari, Italy</h4>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/melanie.jpg" alt="Melanie Zeilinger" class="profile-image">
+    <div class="profile-info">
+      <h3>Melanie Zeilinger</h3>
+      <h4>ETH, Switzerland</h4>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/naira.jpg" alt="Naira Hovakimyan" class="profile-image">
+    <div class="profile-info">
+      <h3>Naira Hovakimyan</h3>
+      <h4>UIUC, USA</h4>
     </div>
   </div>
 </div>
@@ -124,6 +155,47 @@ Format: Full-day workshop
 * **15:55-16:25:** Coffee break 
 * **16:25-17:45:** Session IV - Panel with all speakers, focused on synthesizing open challenges, questioning implicit assumptions, and identifying shared research directions for robot control 
 * **17:45-18:00:** Closing remarks 
+
+
+## Organizers
+
+<div class="profile-grid">
+  <div class="profile-card">
+    <img src="assets/organizers/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
+    <div class="profile-info">
+      <h3>Cosimo Della Santina</h3>
+      <h4>TU Delft, NL - Primary Contact</h4>
+      <p>Associate Professor in Robotics and Control. Research on nonlinear control, soft and underactuated robots, and physical interaction. Email: c.dellasantina@tudelft.nl</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/organizers/kaoru.jpg" alt="Kaoru Yamamoto" class="profile-image">
+    <div class="profile-info">
+      <h3>Kaoru Yamamoto</h3>
+      <h4>Kyushu University, JP</h4>
+      <p>Professor of Control and Robotics. Research on control of interconnected dynamical systems, distributed control, multi-agent systems, mechanical networks, and passivity-based control.</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/organizers/manuel.jpg" alt="Manuel Keppler" class="profile-image">
+    <div class="profile-info">
+      <h3>Manuel Keppler</h3>
+      <h4>German Aerospace Center - DLR, DE</h4>
+      <p>Senior researcher in articulated soft and humanoid robot control, with strong links between theory and large-scale experimental platforms.</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/organizers/sylvia.jpg" alt="Sylvia Herbert" class="profile-image">
+    <div class="profile-info">
+      <h3>Sylvia Herbert</h3>
+      <h4>University of California San Diego, US</h4>
+      <p>Assistant Professor working on scalable safety assurances and control policies based on available models and data about the system and environment.</p>
+    </div>
+  </div>
+</div>
 
 ## Future Outcomes
 The organizers aim for the outcomes of this workshop to feed into a joint community effort, such as a position or perspective paper outlining a coherent set of open challenges in robot control. This document would serve as a reference point for future research and discussion within the control and robotics communities.

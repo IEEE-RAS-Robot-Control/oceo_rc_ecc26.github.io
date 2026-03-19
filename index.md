@@ -30,7 +30,7 @@ description: "Workshop ECC 2026 - Reykjavík, IEEE CSS"
   }
 </style>
 
-<div id="custom-header-logos" style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 30px;">
+<div id="custom-header-logos" style="display: flex; justify-content: center; align-items: center; gap: 25vw; margin-top: 30px;">
   <img src="assets/logos/ecc26.svg" alt="ECC 2026" style="height: 80px; width: auto; object-fit: contain;">
   <img src="assets/logos/robot_control_tc.svg" alt="TC" style="height: 80px; width: auto; object-fit: contain;">
 </div>

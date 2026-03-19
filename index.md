@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Open Challenges and Emerging Opportunities in Robot Control"
-description: "A workshop focused on conceptual clarity, modeling assumptions, and the limits of existing methods in modern robotics."
+description: "Workshop ECC 2026 - Reykjavík, IEEE CSS"
 ---
 
 ## About the Workshop

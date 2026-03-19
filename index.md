@@ -4,6 +4,37 @@ title: "Open Challenges and Emerging Opportunities in Robot Control"
 description: "Workshop ECC 2026 - Reykjavík, IEEE CSS"
 ---
 
+<style>
+  .header-logos {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between; /* Puts one logo on the left, one on the right */
+    padding: 0 5vw; /* Adds space on the left and right edges */
+    box-sizing: border-box;
+    pointer-events: none; /* Prevents logos from blocking clicks on the header */
+  }
+  .header-logos img {
+    height: 80px; 
+    width: auto;
+    pointer-events: auto;
+  }
+  
+  /* Hides the logos on very small mobile screens so they don't overlap the title */
+  @media (max-width: 768px) {
+    .header-logos {
+      display: none; 
+    }
+  }
+</style>
+
+<div class="header-logos">
+  <img src="assets/logos/ecc26.svg" alt="ECC 2026">
+  <img src="assets/logos/robot_control_tc.png" alt="TC">
+</div>
+
 ## About the Workshop
 Robot control has matured into a rich and diverse discipline, yet its intellectual coherence is increasingly strained by fragmentation across paradigms, application domains, and publication venues. Classical problems stability under interaction, modeling uncertainty, underactuation, hybrid dynamics, etc. are often treated as "solved" by practitioners, yet they persistently reappear in modern robotic systems operating in contact-rich, uncertain, and learning-enabled environments. 
 

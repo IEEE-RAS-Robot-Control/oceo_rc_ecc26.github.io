@@ -32,7 +32,7 @@ description: "Workshop ECC 2026 - Reykjavík, IEEE CSS"
 
 <div class="header-logos">
   <img src="assets/logos/ecc26.svg" alt="ECC 2026">
-  <img src="assets/logos/robot_control_tc.png" alt="TC">
+  <img src="assets/logos/robot_control_tc.svg" alt="TC">
 </div>
 
 ## About the Workshop

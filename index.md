@@ -109,7 +109,6 @@ The workshop targets researchers in control and robotics whose work engages with
   </div>
 
   ### Senior
-
   <div class="profile-card">
     <img src="assets/speakers/senior/alessandro-a.jpg" alt="Alessandro Astolfi" class="profile-image">
     <div class="profile-info">

@@ -1,38 +1,18 @@
 ---
 layout: default
-title: "Open Challenges and Emerging Opportunities in Robot Control"
-description: "Workshop ECC 2026 - Reykjavík, IEEE CSS"
+title: "Open Challenges and Emerging Opportunities<br>in Robot Control"
+description: "ECC 2026 Workshop - Reykjavík, Iceland"
+date: "Tuesday, July 7th 9:00-17:00"
+venue: "To be announced"
 ---
 
-<style>
-  .header-logos {
-    position: absolute;
-    top: 20px;
-    left: 0;
-    width: 100%;
-    display: flex;
-    justify-content: space-between; /* Puts one logo on the left, one on the right */
-    padding: 0 5vw; /* Adds space on the left and right edges */
-    box-sizing: border-box;
-    pointer-events: none; /* Prevents logos from blocking clicks on the header */
-  }
-  .header-logos img {
-    height: 80px; 
-    width: auto;
-    pointer-events: auto;
-  }
-  
-  /* Hides the logos on very small mobile screens so they don't overlap the title */
-  @media (max-width: 768px) {
-    .header-logos {
-      display: none; 
-    }
-  }
-</style>
-
-<div id="custom-header-logos" style="display: flex; justify-content: center; align-items: center; gap: 25vw; margin-top: 30px;">
-  <img src="assets/logos/ecc26.svg" alt="ECC 2026" style="height: 80px; width: auto; object-fit: contain;">
-  <img src="assets/logos/robot_control_tc.svg" alt="TC" style="height: 80px; width: auto; object-fit: contain;">
+<div id="custom-header-logos" class="custom-header-logos">
+  <a href="https://ecc26.euca-ecc.org/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/logos/ecc26.svg" alt="ECC 2026">
+  </a>
+  <a href="https://ieee-ras-robot-control.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/logos/robot_control_tc_white.svg" alt="TC">
+  </a>
 </div>
 
 <script>
@@ -59,60 +39,6 @@ The objectives are threefold:
 
 ## Target Audience
 The workshop targets researchers in control and robotics whose work engages with the modeling, analysis, and control of complex robotic systems, particularly in settings involving physical interaction, uncertainty, hybrid behavior, and learning-enabled components. It is especially relevant for those interested in the foundations of robotics control, the limits of existing frameworks, and the formulation of new problems arising from emerging robotic platforms and technologies.
-
-<style>
-  .profile-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-bottom: 2rem;
-  }
-  .profile-card {
-    background: #f9f9f9;
-    border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    padding: 15px;
-    width: calc(50% - 10px); /* Creates a 2-column grid */
-    box-sizing: border-box;
-    display: flex;
-    align-items: flex-start;
-    gap: 15px;
-  }
-  .profile-image {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    object-fit: cover;
-    flex-shrink: 0;
-    border: 2px solid #159957; /* Cayman theme green */
-  }
-  .profile-info {
-    display: flex;
-    flex-direction: column;
-  }
-  .profile-info h3 {
-    margin: 0 0 5px 0 !important;
-    font-size: 1.1rem;
-    color: #159957;
-  }
-  .profile-info h4 {
-    margin: 0 0 8px 0 !important;
-    font-size: 0.9rem;
-    color: #606c71;
-    font-style: italic;
-  }
-  .profile-info p {
-    margin: 0;
-    font-size: 0.85rem;
-    line-height: 1.4;
-  }
-  /* Make it 1 column on smaller screens */
-  @media (max-width: 768px) {
-    .profile-card {
-      width: 100%;
-    }
-  }
-</style>
 
 ## Invited Speakers
 
@@ -186,18 +112,19 @@ The workshop targets researchers in control and robotics whose work engages with
   </div>
 </div>
 
-## Tentative Program
-Format: Full-day workshop 
+## Program Schedule
 
-* **09:00-09:15:** Opening and workshop framing (Organizers) 
-* **09:15-10:55:** Session I - Invited perspective talks by Melanie Zeilinger, Laura Ferranti, and Chiara Gabellieri 
-* **10:55-11:25:** Coffee break 
-* **11:25-13:05:** Session II - Invited perspective talks by Alessandro Astolfi, Manuel Keppler, and Kyoungchul Kong 
-* **13:05-14:15:** Lunch break 
-* **14:15-15:55:** Session III - Invited perspective talks by Naira Hovakimyan and Maria Pia Fanti 
-* **15:55-16:25:** Coffee break 
-* **16:25-17:45:** Session IV - Panel with all speakers, focused on synthesizing open challenges, questioning implicit assumptions, and identifying shared research directions for robot control 
-* **17:45-18:00:** Closing remarks 
+| Time | Session |
+|------|---------|
+|09:00-09:15|Opening and workshop framing (Organizers)|
+|09:15-10:55| Session I - Invited perspective talks by Melanie Zeilinger, Laura Ferranti, and Chiara Gabellieri|
+|10:55-11:25| Coffee break|
+|11:25-13:05| Session II - Invited perspective talks by Alessandro Astolfi, Manuel Keppler, and Kyoungchul Kong|
+|13:05-14:15| Lunch break 
+|14:15-15:55| Session III - Invited perspective talks by Naira Hovakimyan and Maria Pia Fanti|
+|15:55-16:25| Coffee break|
+|16:25-17:45| Session IV - Panel with all speakers, focused on synthesizing open challenges, questioning implicit assumptions, and identifying shared research directions for robot control|
+|17:45-18:00| Closing remarks|
 
 
 ## Organizers

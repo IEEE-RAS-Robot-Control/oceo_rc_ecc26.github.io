@@ -162,6 +162,33 @@ The workshop targets researchers in control and robotics whose work engages with
       <p>Assistant Professor working on scalable safety assurances and control policies based on available models and data about the system and environment.</p>
     </div>
   </div>
+
+  <div class="profile-card">
+    <img src="assets/organizers/fumiya_matsuzaki.jpg" alt="Fumiya Matsuzaki" class="profile-image">
+    <div class="profile-info">
+      <h3>Fumiya Matsuzaki</h3>
+      <h4>Kyushu University, Japan</h4>
+      <p>PhD Student.</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/organizers/yuhe_gong.jpg" alt="Yuhe Gong" class="profile-image">
+    <div class="profile-info">
+      <h3>Yuhe Gong</h3>
+      <h4>University of Nottingham, UK</h4>
+      <p>PhD Student.</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/organizers/daniele_caradonna.jpg" alt="Daniele Caradonna" class="profile-image">
+    <div class="profile-info">
+      <h3>Daniele Caradonna</h3>
+      <h4>Scuola Superiore Sant'Anna, Italy</h4>
+      <p>PhD Student.</p>
+    </div>
+  </div>
 </div>
 
 ## Future Outcomes
